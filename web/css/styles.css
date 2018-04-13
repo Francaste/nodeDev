@@ -1,0 +1,56 @@
+body {
+    background-color: #11e299;
+}
+div{
+  padding: 9px;
+  margin:4px;
+  border: 2px ridge #112299;
+  width
+}
+.menuTitle{
+  text-align: center;
+    color:#e23411;
+    font-family:Geneva;
+    font-size:1.5em;
+}
+h1{
+  text-align: center;
+    color:#e23411;
+    font-family:Geneva;
+    font-size:3.5em;
+    text-shadow: 3px 2px #000000;
+    font-style:italic;
+}
+#lema{
+  text-align: center;
+  letter-spacing: 20px;
+  font-family:Geneva;
+}
+#tabla{
+  text-align: center;
+
+}
+#menu li{
+  display: inline;
+  list-style-type: none;
+  position: relative;
+}
+#menu{
+  border:none;
+  display:none;
+  font-size:0.9em;
+}
+a{
+  text-decoration: none;
+}
+.link:hover{
+  font-size: 1.5em;
+  color: #151699;
+  font-style:italic;
+   text-transform: uppercase;
+}
+.title{
+  font-family:Geneva;
+  font-size:1.5em;
+}
+/*https://teamtreehouse.com/community/css-to-create-mirrored-text*/
